@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @bornkiss
-- 👀 I’m interested in ![](https://img.shields.io/badge/-Vue.js-34495d?style=flat-square&logo=Vue.js&labelColor=34495d) ![](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=React&labelColor=282c34) ![](https://img.shields.io/badge/-Svelte-fff?style=flat-square&logo=Svelte&labelColor=fff)
+- 👀 I’m interested in ![](https://img.shields.io/badge/-Vue.js-34495d?style=flat-square&logo=Vue.js&labelColor=fff)
+![](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=React&labelColor=fff)
+![](https://img.shields.io/badge/-Svelte-fff?style=flat-square&logo=Svelte&labelColor=fff)
 - 🌱 I’m currently learning being a good father.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
